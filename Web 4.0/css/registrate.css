@@ -1,0 +1,19 @@
+.bor{
+	border: 1px solid #000 !important;
+}
+.check{
+	font-size: 13px !important;
+	color: #2471A3 !important;
+}
+.texto{
+	text-align: center;
+	padding-bottom: 25px;
+	font-size: 35px;
+}
+.bh{
+	width: 200px;
+}
+.imagen{
+	display: block;
+	margin: 0 auto;
+}

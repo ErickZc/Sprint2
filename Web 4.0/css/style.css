@@ -1,0 +1,142 @@
+.inicio {
+	font-family: 'Pathway Gothic One';
+	background: url('../img/todd-quackenbush-700-unsplash.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	text-align: center;
+	padding: 120px;
+}
+
+.img-java{
+	height: 200px;
+}
+.bienvenido{
+	font-size: 60px;
+	text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.84);
+}
+.bienvenido2{
+	font-size: 35px;
+	text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.84);
+}
+.navbar{
+	background:#1d130f !important;
+}
+.acceder{
+	font-size: 35px;
+	font-style: italic;
+	color: #CD5C5C;
+	text-shadow: 0px 1px 1px rgba(205, 92, 92, 1);
+}
+.intro{
+	padding: 35px 35px 0 35px;
+	text-align: center;
+}
+.b-intro{
+	background: #CD5C5C !important;
+	color: #fff;
+}
+.b-intro:hover{
+	color:#fff;
+}
+
+.img-slider{
+	height: 500px;
+	width: 100%;
+}
+
+
+@media only screen and (max-width: 576px) and (min-width: 200px){
+	.carousel-caption{
+		padding-bottom: 10px !important;
+	}
+
+
+	.detalle{
+	font-size: 25px;
+	text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.84);
+	}
+
+	.mini-detalle{
+		font-size: 10px;
+		text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.84);
+	}
+}
+@media only screen and (min-width: 577px){
+	.carousel-caption{
+		padding-bottom: 130px !important;
+	}
+
+	.detalle{
+	font-size: 35px;
+	text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.84);
+	}
+
+	.mini-detalle{
+		font-size: 20px;
+		text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.84);
+	}
+}
+
+.ubicacion{
+	padding-top: 80px;
+	padding-bottom: 1px;
+}
+.l{
+	border-bottom: 3px solid #CD5C5C ;
+	text-align: center;
+	margin-bottom: 35px;
+}
+
+footer{
+	background: #1d130f !important;
+	padding: 50px;
+}
+.copy{
+	font-weight: bold;
+	font-size: 20px;
+}
+.cop{
+	font-size: 18px; 
+}
+
+@media only screen and (max-width: 576px){
+	.inicio{
+		background: url('../img/helena-yankovska-408202-unsplash.jpg');
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: cover;
+		padding: 10px;
+	}
+	.img-java{
+		height: 150px;
+		width: auto;
+	}
+	.bienvenido{
+		font-size: 35px;
+		text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.84);
+	}
+	.bienvenido2{
+		font-size: 25px;
+		text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.84);
+	}
+	.acceder{
+		font-size: 22px;
+	}
+	.l{
+		font-size: 20px;
+	}
+}
+.slider{
+	padding-top: 35px;
+}
+.navbar-brand{
+	font-size: 25px !important;
+}
+.nav-item{
+	font-size: 20px !important;
+}
+.detalle, .mini-detalle{
+	color: #fff !important;
+}

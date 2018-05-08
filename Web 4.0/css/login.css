@@ -1,0 +1,32 @@
+.formulario {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+.butt{
+	width: 270px !important;
+	height: 40px;
+	border: 1px solid #000 !important;
+}
+.b{
+	font-size: 18px !important;
+}
+.imagen{
+	
+	display: block;
+	margin: 0 auto;
+}
+.texto{
+	text-align: center;
+	padding-bottom: 30px;
+	font-family: calibri;
+	font-size: 35px;
+}
+.nuevo{
+	font-size: 15px;
+	margin-top: 15px;
+	text-align: right;
+}
+
